@@ -1,0 +1,22 @@
+{
+  "name": "findsakshat-cli",
+  "version": "1.0.0",
+  "description": "Official CLI tool for findsakshat (bio, work, projects, blog posts, contact etc...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "findsakshat": "./index.js"
+  },
+  "keywords": [
+    "cli",
+    "nodejs",
+    "findsakshat"
+  ],
+  "author": "sakshatl",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
